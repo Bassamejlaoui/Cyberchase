@@ -1,4 +1,9 @@
-## Cyberchase
+## Cyberchase | CS50 Introduction to Databases using SQL
+
+<p align="center">
+<img src="https://i.imgur.com/Jj740Yd.png" alt="logo" height="150"/>
+</p>
+
 
 ![cyberchase](https://github.com/mejbass/Cyberchase/assets/130122304/24707fce-3d7e-40c5-a594-d820cb5cbf82)
 
